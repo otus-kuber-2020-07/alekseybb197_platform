@@ -3,4 +3,3 @@ kind: ServiceAccount
 metadata:
   name: carol
   namespace: prometheus
-

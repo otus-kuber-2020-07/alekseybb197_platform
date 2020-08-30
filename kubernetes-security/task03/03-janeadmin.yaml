@@ -11,4 +11,3 @@ roleRef:
   kind: Role
   name: admin
   apiGroup: rbac.authorization.k8s.io
- 

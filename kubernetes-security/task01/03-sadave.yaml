@@ -3,4 +3,3 @@ kind: ServiceAccount
 metadata:
   name: dave
   namespace: kube-public
-
