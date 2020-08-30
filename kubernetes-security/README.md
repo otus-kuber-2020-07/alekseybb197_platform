@@ -1,4 +1,4 @@
-# secutiry
+# security
 ## task1
 01-sabob.yaml  	создаем sa bob
     kubectl get sa --all-namespaces | grep bob
