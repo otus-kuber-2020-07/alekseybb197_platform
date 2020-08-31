@@ -5,7 +5,7 @@ metadata:
 subjects:
 - kind: ServiceAccount
   name: dave
-  namespace: kube-public
+  namespace: default
 roleRef:
   kind: ClusterRole
   name: getout
